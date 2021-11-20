@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="frist_001:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/frist_001_jar</output-path>
+    <root id="archive" name="frist_001.jar">
+      <element id="module-output" name="frist_001" />
+    </root>
+  </artifact>
+</component>
